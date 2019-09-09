@@ -11,7 +11,10 @@
   - Clone or download zip of frontend project
   - Install/Run visual studio code or other compatible IDE
   - Open the terminal and run "npm install && npm start"
-  - Open up two tabs
+  - Runs on http://localhost:3000
+
+### Using the program
+ - Open up the following two tabs:
     - http://localhost:3000
     - http://localhost:3000/another-user
-  - Runs on http://localhost:3000
+ - Enter your message in the input field, and start chatting!    
